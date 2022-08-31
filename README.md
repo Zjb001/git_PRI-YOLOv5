@@ -94,7 +94,7 @@ Testing results will be saved to runs/detect/exp.
 ## <div align="center">Citation</div>
 <br>
 ```bash
-@code{YOLOv5,
+@article{YOLOv5,
   link = {https://github.com/ultralytics/yolov5},
   main contributor = {Glenn Jocher},
   year = {2020},
