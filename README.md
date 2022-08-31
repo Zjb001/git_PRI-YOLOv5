@@ -103,6 +103,6 @@ Testing results will be saved to runs/detect/exp.
 
 ## <div align="center">Contact</div>
 <br>
-For any questions about running the code or any issues about building a data set, please contact us by [email](gz18801366490@163.com).
-If you are interested in our research direction and seeking for some collaborates or discussions, please contact us by [email](angelniuniu@bit.edu.cn).
+For any questions about running the code or any issues about building a data set, please contact us by email (gz18801366490@163.com).
+If you are interested in our research direction and seeking for some collaborates or discussions, please contact us by email (angelniuniu@bit.edu.cn).
 Thank you!
